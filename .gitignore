@@ -1,0 +1,15 @@
+# NameX
+
+Xcode project directories and model weights are intentionally excluded.
+
+*.xcuserdata/
+*.xcworkspace/
+DerivedData/
+build/
+Models/*.gguf
+Models/*.safetensors
+Models/*.mlx
+*.mlmodel
+*.mlpackage
+.env
+secrets/

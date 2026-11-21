@@ -1,0 +1,15 @@
+# Swift
+swift
+swift-tools-version: 6.0
+
+# iOS
+iphone
+swiftui
+swift-package-manager
+
+# Agent
+llm
+local-llm
+memory
+checkpoints
+siri
